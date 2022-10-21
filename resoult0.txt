@@ -1,0 +1,1 @@
+TIME:::!rank : 0 get_handle_time : 5.16592 handle_STDP_time : 2.53972 STDP_time : 72.6448 update_time : 4.73539 send_event_time : 5.26956 mini_send_event_time : 0.433717mini_mini_time:0.000157735
